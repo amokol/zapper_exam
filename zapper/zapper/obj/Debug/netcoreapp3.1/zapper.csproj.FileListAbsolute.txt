@@ -1,0 +1,15 @@
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\zapper.exe
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\zapper.deps.json
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\zapper.runtimeconfig.json
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\zapper.runtimeconfig.dev.json
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\zapper.dll
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\zapper.pdb
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.csprojAssemblyReference.cache
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.AssemblyInfoInputs.cache
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.AssemblyInfo.cs
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.csproj.CoreCompileInputs.cache
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.dll
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.pdb
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.genruntimeconfig.cache
+C:\Users\Anjo\source\repos\zapper\zapper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anjo\source\repos\zapper\zapper\obj\Debug\netcoreapp3.1\zapper.csproj.CopyComplete
